@@ -9,6 +9,15 @@ some time wrapping tape to wire harness is very challenging and time consuming j
 so made this simple machine to minimize the work and we can quickly wrap the tape
 to wire harness.
 
+A cable harness, also known as a wire harness, wiring harness, cable assembly, wiring assembly or wiring loom, is an assembly of electrical cables or wires which transmit signals or electrical power. The cables are bound together by a durable material such as rubber, vinyl, electrical tape, conduit, a weave of extruded string, or a combination thereof.
+
+Commonly used in automobiles, as well as construction machinery, cable harnesses provide several advantages over loose wires and cables. For example, many aircraft, automobiles and spacecraft contain many masses of wires which would stretch over several kilometers if fully extended.
+
+By binding the many wires and cables into a cable harness, the wires and cables can be better secured against the adverse effects of vibrations, abrasions, and moisture. By constricting the wires into a non-flexing bundle, usage of space is optimized, and the risk of a short is decreased.
+
+Since the installer has only one harness to install (as opposed to multiple wires), installation time is decreased and the process can be easily standardized. Binding the wires into a flame retardant sleeve also lowers the risk of electrical fires.
+
+
 # Component Used
 
 1. Arduino nano
